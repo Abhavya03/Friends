@@ -1,0 +1,59 @@
+a{
+    text-decoration: none !important;
+}
+.course a:hover{
+    color: white
+}
+.hero-sub-text{
+color: rgb(254,209,60);
+
+}
+
+.hero-bg{
+    background-color: rgb(42, 39, 39) ;
+    height:60vh;
+    background-size: cover;
+    background-position: center;
+}
+.hero-demo{
+background-color: rgb(254,209,60);
+border-radius: 50px;
+color:rgb(18,66,97);
+
+
+}
+.hero-now{
+    background-color: white;
+    border-radius: 50px;
+    color: rgb(42,175,161);
+}
+.why-math{
+   background-color: rgb(42,175,161);
+   color: white;
+
+}
+.why-math p{
+    font-size:14px;
+}
+.course h2{
+    color:rgb(18,66,97);
+
+}
+.course-live-btn{
+   background-color: rgb(42,175,161); 
+   color:white;
+   border-radius:50px;
+}
+.course-recorded{
+    background-color: rgb(18,66,97);
+    color:white;
+    border-radius:50px; 
+}
+.course
+{
+    background-color:honeydew;
+}
+.feature.card {
+    box-shadow:20px 20px 30px rgba(0,0,0,0.07);
+    border:none;
+}
